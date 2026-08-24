@@ -31,7 +31,7 @@ Schedule Trigger → Google Sheets → Filter → Convert to XLSX → Gmail
 
 ## 📷 Workflow
 
-![Workflow da automação](imagens/workflow.png)
+![Workflow da automação](workflow.png)
 
 ## 🚀 Aprendizados
 
